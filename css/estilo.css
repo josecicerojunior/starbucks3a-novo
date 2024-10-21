@@ -89,7 +89,7 @@ h1 {
 }
 
 .area1--content {
-  height: 300px;
+  padding: 80px;
 }
 
 .area1--img1 {
@@ -105,4 +105,17 @@ h1 {
   background-image: url('/img/f1.jpg');
   background-position: center;
   background-size: cover;
+}
+
+.bar {
+  background-color: #006341;
+  width: 168px;
+  height: 22px;
+}
+.area1--quote {
+  margin-bottom: 30px;
+}
+.area1--text {
+  margin-bottom: 50px;
+  line-height: 25px;
 }
